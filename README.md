@@ -6,9 +6,7 @@
 
 - ## [分布式文件存储系统 —— hdfs](hadoop/hdfs/hdfs.md)
 
-  
-
-- ## Yarn
+- ## [资源管理协调器---yarn](hadoop/yarn/yarn.md)
 
 - ## MapReduce
 
