@@ -1,36 +1,28 @@
-# 1.HDFS
-
-## 1.1block
 
 
+- # hadoop
 
-## <a href="hdfs/hdfs.md">hdfs</a>
+- ## [分布式动物园管理员——zookeeper](hadoop/zookeeper/zookeeper.md)
 
+- ## [分布式文件存储系统 —— hdfs](hadoop/hdfs/hdfs.md)
 
+  
 
-# 2.YARN
+- ## Yarn
 
-1. [yarn秘密]: yarn/yarn.md
+- ## MapReduce
 
+- ## Hive
 
+- ## Hbase
 
-# 3.HBASE
+- ## Flume
 
-3dsadas
+- ## Kafka
 
-# 4.HIVE
+- ## Sqoop
 
-## dasd
+- ## Spark
 
-
-
-# 5.ZOKEEPER
-
-
-
-[toc]
-
-
-
-
+- ## SCALA
 
