@@ -95,6 +95,9 @@ object WebLog {
         //将业务指标数据插入到mysql数据库
         MysqlUtil.save(tongjiBean)
         HBaseUtil.save(sc,logBean)
+        //ceshi
+        println("xxx")
+
       }
     }
 //  kafkaSource.print()
